@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Spotify Clone",
+    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-21 23.13.56.png",
+    "description": "Bu proje, HTML, SCSS ve JavaScript kullanarak yapılmış bir Spotify klonudur. Kullanıcılar, Spotify API'si aracılığıyla şarkıları arayabilir ve dinleyebilirler.",
+    "skills": ["HTML", "SCSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/Spotify-Clone"
+  },
+  {
+    "title": "Grocery Store App ",
+    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-22 00.30.00.png",
+    "description": "This project is a simple grocery store web application built with React and Next.js. Users can browse products, add them to a shopping cart, and proceed to checkout.",
+    "skills": ["React", "NextJS", "Node", "Tailwind CSS","Redux"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/grocery-Manav?tab=readme-ov-file"
+  },
+  {
+    "title": "Shoes E-commerce",
+    "imageSrc": "src/assets/projects/ekran_ayakabi.jpg",
+    "description": "Shoes E-commerce is a modern and responsive e-commerce website for selling shoes, built using powerful React and TypeScript technologies",
+    "skills": ["React", "TypeScript", "Axios","TanstackQuery", "Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/E-ticaret-ayakab-"
+  }
+  ,
+  {
+    "title": " Next.js Dashboard",
+    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-27 20.27.36.png",
+    "description": "A dynamic admin panel application built with modern web technologies for managing users and products with ease. displays it in a user-friendly interface, and visualizes key metrics through interactive charts.",
+    "skills": ["React", "Next.js", "Chart.js","TypeScript","TypeScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/Dashboard?tab=readme-ov-file"
+  }
+  ,
+  {
+    "title": "Rente-Car",
+    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-27 20.38.38.png",
+    "description": "This project is a car rental platform developed using Cursor AI Code Editor, TypeScript, React, Tailwind CSS, Motion, and React Pagination. Users can list and filter cars to find suitable options.",
+    "skills": ["React", "TypeScript", "Tailwind CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/Rente-Car"
+  }
+  ,
+  {
+    "title": "Hotel Website",
+    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-27 20.44.51.png",
+    "description": "This is a modern and responsive hotel website built with React and Tailwind CSS.  TanStack Query for data fetching, Formik and Yup for form handling, Axios for API requests, React Icons for icons, and React Toastify for notifications.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/CihanHayta/Hotel-Web"
+  }
+]
