@@ -1,22 +1,21 @@
 import React, { useState } from "react";
 import styles from "./Navbar.module.css";
 
-import menuIcon from '../../assets/nav/menuIcon.png';
-import closeIcon from '../../assets/nav/closeIcon.png';
-
+import menuIcon from "../../assets/nav/menuIcon.png";
+import closeIcon from "../../assets/nav/closeIcon.png";
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-     <nav className={styles.navbar}>
+    <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-     <span className={styles.surname}> Cihan Hayta</span>
+        <span className={styles.surname}> Cihan Hayta</span>
       </a>
       <div className={styles.menu}>
         <img
           className={styles.menuBtn}
-         src={menuOpen ? closeIcon : menuIcon}
+          src={menuOpen ? closeIcon : menuIcon}
           alt="menu-button"
           onClick={() => setMenuOpen(!menuOpen)}
         />
@@ -25,16 +24,16 @@ const Navbar = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="#about">About</a>
+            <a href="#about">Hakkımda</a>
           </li>
           <li>
-            <a href="#experience">Experience</a>
+            <a href="#experience">Tecrübe</a>
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <a href="#projects">Projeler</a>
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <a href="#contact">İletişim</a>
           </li>
         </ul>
       </div>
@@ -43,6 +42,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
-
-
-   
