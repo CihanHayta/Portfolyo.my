@@ -1,6 +1,11 @@
 import React from "react";
-
 import styles from "./About.module.css";
+
+// Import about images
+import aboutImg from "../../assets/about/abuout.avif";
+import frontendImg from "../../assets/about/imagesFront.png";
+import backendImg from "../../assets/about/backend.webp";
+import mobileImg from "../../assets/about/mob.webp";
 
 const About = () => {
   return (
@@ -9,10 +14,10 @@ const About = () => {
       
 
       <div className={styles.content}>
-        <img src="src/assets/about/abuout.avif" alt="Me sitting with a laptop"  className={styles.aboutImage}/>
+        <img src={aboutImg} alt="Me sitting with a laptop"  className={styles.aboutImage}/>
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="src/assets/about/imagesFront.png" alt="" className={styles.aboutImg} />
+            <img src={frontendImg} alt="" className={styles.aboutImg} />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -23,7 +28,7 @@ const About = () => {
           </li>
 
           <li className={styles.aboutItem}>
-            <img src="src/assets/about/backend.webp" alt=""className={styles.aboutImg}  />
+            <img src={backendImg} alt=""className={styles.aboutImg}  />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -34,7 +39,7 @@ const About = () => {
           </li>
 
           <li className={styles.aboutItem}>
-            <img src="src/assets/about/mob.webp" alt="" className={styles.aboutImg}  />
+            <img src={mobileImg} alt="" className={styles.aboutImg}  />
             <div className={styles.aboutItemText}>
               <h3>React Native Developer</h3>
               <p>

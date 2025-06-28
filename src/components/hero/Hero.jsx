@@ -4,6 +4,9 @@ import MultiText from "../text-animation/TextAnime";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
+// Import hero image
+
+
 const Hero = () => {
   return (
     <section className={styles.container}>
@@ -43,9 +46,7 @@ const Hero = () => {
       <div className={styles.bottomBlur} />
 
       <img
-        src={
-          "public/hero/WhatsApp Image 2025-05-01 at 20.37.41 kopyası.jpeg"
-        }
+        src={"src/assets/hero/WhatsApp Image 2025-05-01 at 20.37.41 kopyası.jpeg"}
         alt="Hero image of me"
         className={styles.heroImg}
       />
