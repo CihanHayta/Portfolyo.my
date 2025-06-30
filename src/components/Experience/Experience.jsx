@@ -3,14 +3,14 @@ import skills from "../../data/skills.json";
 import { motion } from "framer-motion";
 
 // Import all skill images
-import htmlImg from "../../assets/skills/html.png";
-import cssImg from "../../assets/skills/css.png";
-import reactImg from "../../assets/skills/react.png";
-import nodeImg from "../../assets/skills/node.png";
-import graphqlImg from "../../assets/skills/graphql.png";
-import mongodbImg from "../../assets/skills/mongodb.png";
-import tailwindImg from "../../assets/skills/imagesTailwind.png";
-import nextjsImg from "../../assets/skills/nextjs2106.logowik.com.webp";
+const htmlImg = "/assets/skills/html.png";
+const cssImg = "/assets/skills/css.png";
+const reactImg = "/assets/skills/react.png";
+const nodeImg = "/assets/skills/node.png";
+const graphqlImg = "/assets/skills/graphql.png";
+const mongodbImg = "/assets/skills/mongodb.png";
+const tailwindImg = "/assets/skills/imagesTailwind.png";
+const nextjsImg = "/assets/skills/nextjs2106.logowik.com.webp";
 
 const skillImages = {
   "HTML": htmlImg,

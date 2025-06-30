@@ -2,10 +2,10 @@ import React from "react";
 import styles from "./About.module.css";
 
 // Import about images
-import aboutImg from "../../assets/about/abuout.avif";
-import frontendImg from "../../assets/about/imagesFront.png";
-import backendImg from "../../assets/about/backend.webp";
-import mobileImg from "../../assets/about/mob.webp";
+import aboutImg from "/assets/about/abuout.avif";
+import frontendImg from "/assets/about/imagesFront.png";
+import backendImg from "/assets/about/backend.webp";
+import mobileImg from "/assets/about/mob.webp";
 
 const About = () => {
   return (
