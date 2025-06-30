@@ -46,7 +46,7 @@ const Hero = () => {
       <div className={styles.bottomBlur} />
 
       <img
-        src={"src/assets/hero/WhatsApp Image 2025-05-01 at 20.37.41 kopyasi.png"}
+        src={"src/assets/hero/cihan.png"}
         alt="Hero image of me"
         className={styles.heroImg}
       />
