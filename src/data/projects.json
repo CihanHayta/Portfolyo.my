@@ -1,7 +1,7 @@
 [
   {
     "title": "Spotify Clone",
-    "imageSrc": "src/assets/projects/Ekran Resmi 2025-06-21 23.13.56.png",
+    "imageSrc": "src/assets/projects/spotify.png",
     "description": "Bu proje, HTML, SCSS ve JavaScript kullanarak yapılmış bir Spotify klonudur. Kullanıcılar, Spotify API'si aracılığıyla şarkıları arayabilir ve dinleyebilirler.",
     "skills": ["HTML", "SCSS", "JavaScript"],
     "demo": "https://www.example.com",
