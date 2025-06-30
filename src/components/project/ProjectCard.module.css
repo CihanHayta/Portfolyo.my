@@ -73,6 +73,7 @@
   .container {
     flex-direction: column;
     gap: 23px;
+    height: auto;
   }
 
   .text {
