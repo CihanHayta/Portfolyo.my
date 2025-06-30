@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        <span className={styles.surname}> Cihan Hayta</span>
+        <img src={"src/assets/hero/cihan.png"} alt="cihan hayta" className={styles.heroImg} />
       </a>
       <div className={styles.menu}>
         <img

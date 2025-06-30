@@ -45,13 +45,7 @@ const Hero = () => {
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
 
-      <div className={styles.heroImgContainer}>
-      <img
-        src={"src/assets/about/mob.webp"}
-        alt="Hero image of me"
-        className={styles.heroImg}
-      />
-      </div>
+     
 
     </section>
   );
