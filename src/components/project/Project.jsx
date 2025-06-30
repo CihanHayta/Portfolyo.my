@@ -6,7 +6,7 @@ import styles from "./Project.module.css";
 const Projects = () => {
   return (
     <section className={styles.container} id="projects">
-      <h2 className={styles.title}>Projects</h2>
+      <h2 className={styles.title}>Projeler</h2>
 
       {/* sliderjs gelicek */}
       {/* <div className={styles.projects}>
