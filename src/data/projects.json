@@ -4,13 +4,13 @@
     "imageSrc": "/assets/projects/spotify.png",
     "description": "Bu proje, HTML, SCSS ve JavaScript kullanarak yapılmış bir Spotify klonudur. Kullanıcılar, Spotify API'si aracılığıyla şarkıları arayabilir ve dinleyebilirler.",
     "skills": ["HTML", "SCSS", "JavaScript"],
-    "demo": "https://www.example.com",
+    "demo": "https://klonspotify.netlify.app/",
     "source": "https://github.com/CihanHayta/Spotify-Clone"
   },
   {
-    "title": "Grocery Store App ",
+    "title": "Manav Dukkani App ",
     "imageSrc": "/assets/projects/manav.png",
-    "description": "This project is a simple grocery store web application built with React and Next.js. Users can browse products, add them to a shopping cart, and proceed to checkout.",
+    "description": "Bu proje, React ve Next.js kullanılarak geliştirilmiş basit bir market web uygulamasıdır. Kullanıcılar ürünlere göz atabilir, sepetlerine ekleyebilir ve ödeme işlemine geçebilir.",
     "skills": ["React", "NextJS", "Node", "Tailwind CSS","Redux"],
     "demo": "https://www.example.com",
     "source": "https://github.com/CihanHayta/grocery-Manav?tab=readme-ov-file"
@@ -18,16 +18,16 @@
   {
     "title": "Shoes E-commerce",
     "imageSrc": "/assets/projects/ayakbi.jpg",
-    "description": "Shoes E-commerce is a modern and responsive e-commerce website for selling shoes, built using powerful React and TypeScript technologies",
+    "description": "Shoes E-commerce, güçlü React ve TypeScript teknolojileri kullanılarak geliştirilmiş modern ve duyarlı (responsive) bir ayakkabı satış e-ticaret sitesidir.",
     "skills": ["React", "TypeScript", "Axios","TanstackQuery", "Tailwind CSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/CihanHayta/E-ticaret-ayakab-"
   }
   ,
   {
-    "title": " Next.js Dashboard",
+    "title": " Admin Panel",
     "imageSrc": "/assets/projects/dash.png",
-    "description": "A dynamic admin panel application built with modern web technologies for managing users and products with ease. displays it in a user-friendly interface, and visualizes key metrics through interactive charts.",
+    "description": "Modern web teknolojileri kullanılarak geliştirilmiş dinamik bir yönetici paneli uygulamasıdır. Kullanıcıları ve ürünleri kolayca yönetmeyi sağlar, kullanıcı dostu bir arayüzde görüntüler ve önemli metrikleri etkileşimli grafiklerle görselleştirir.",
     "skills": ["React", "Next.js", "Chart.js","TypeScript","TypeScript"],
     "demo": "https://www.example.com",
     "source": "https://github.com/CihanHayta/Dashboard?tab=readme-ov-file"
@@ -36,16 +36,16 @@
   {
     "title": "Rente-Car",
     "imageSrc": "/assets/projects/araba.png",
-    "description": "This project is a car rental platform developed using Cursor AI Code Editor, TypeScript, React, Tailwind CSS, Motion, and React Pagination. Users can list and filter cars to find suitable options.",
+    "description": "Bu proje, Cursor AI Code Editor, TypeScript, React, Tailwind CSS, Motion ve React Pagination kullanılarak geliştirilmiş bir araç kiralama platformudur. Kullanıcılar, uygun seçenekleri bulmak için araçları listeleyebilir ve filtreleyebilir.",
     "skills": ["React", "TypeScript", "Tailwind CSS"],
     "demo": "https://www.example.com",
     "source": "https://github.com/CihanHayta/Rente-Car"
   }
   ,
   {
-    "title": "Hotel Website",
+    "title": "Otel Website",
     "imageSrc": "/assets/projects/otel.png",
-    "description": "This is a modern and responsive hotel website built with React and Tailwind CSS.  TanStack Query for data fetching, Formik and Yup for form handling, Axios for API requests, React Icons for icons, and React Toastify for notifications.",
+    "description": " Bu, React ve Tailwind CSS kullanılarak geliştirilmiş modern ve duyarlı (responsive) bir otel web sitesidir. Veri çekme işlemleri için TanStack Query, form yönetimi için Formik ve Yup, API istekleri için Axios, ikonlar için React Icons ve bildirimler için React Toastify kullanılmıştır",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://github.com/CihanHayta/Hotel-Web"

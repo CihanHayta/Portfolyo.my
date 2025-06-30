@@ -20,7 +20,11 @@ const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+
+      
+      
     </section>
+    
   );
 };
 

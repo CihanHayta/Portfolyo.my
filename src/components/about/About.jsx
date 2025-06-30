@@ -21,8 +21,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+              Kullanıcı odaklı, duyarlı (responsive) ve performans odaklı web siteleri tasarlayıp geliştiren deneyimli bir frontend geliştiricisiyim. Modern teknolojiler ve en iyi uygulamalarla, hem estetik hem de hızlı çalışan arayüzler yaratmaya önem veriyorum.
               </p>
             </div>
           </li>
@@ -32,8 +31,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Yüksek performanslı, hızlı ve optimize edilmiş backend sistemleri ile ölçeklenebilir ve güvenilir API’ler geliştirme konusunda kapsamlı deneyime sahibim. Sunucu tarafında, verimli veri işleme ve entegrasyon süreçleri yürüterek, uygulamaların sorunsuz ve kesintisiz çalışmasını sağlıyorum.
               </p>
             </div>
           </li>
@@ -43,8 +41,7 @@ const About = () => {
             <div className={styles.aboutItemText}>
               <h3>React Native Developer</h3>
               <p>
-                I'm a React Native developer with experience in building
-                responsive and optimized mobile applications.
+              React Native kullanarak, hem iOS hem de Android platformlarında çalışabilen, kullanıcı dostu, duyarlı (responsive) ve performans odaklı mobil uygulamalar geliştirme konusunda deneyimli bir yazılım geliştiricisiyim.
               </p>
             </div>
           </li>
