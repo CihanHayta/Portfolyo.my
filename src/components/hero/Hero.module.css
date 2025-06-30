@@ -7,7 +7,7 @@
   justify-content: space-between;
   margin-top: 49px;
   z-index: 1;
-   padding-left: 20px;
+  padding-left: 20px;
   padding-right: 20px;
   /* veya */
   margin-left: 20px;
@@ -21,12 +21,21 @@
   color: var(--color-text);
   z-index: 1;
 }
+.heroImgContainer {
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+
+  width: 500px;
+  height: 300px;
+  border-radius: 20%;
+}
 
 .title {
   font-size: 4rem;
   font-weight: 400;
   margin-bottom: 33px;
- font-family: "Red Hat Display", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   background: linear-gradient(
     90deg,
     rgba(255, 255, 255, 1) 70%,
@@ -38,9 +47,8 @@
 
 .description {
   font-size: 1.3rem;
- font-family: "Red Hat Display", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   margin-bottom: 52px;
-  
 }
 
 .contactBtn {
@@ -53,46 +61,32 @@
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
 }
-.animateContainer{
-    display: flex;
-    gap: 12px ;
-    margin-top: 6px;
-   
+.animateContainer {
+  display: flex;
+  gap: 12px;
+  margin-top: 6px;
 }
 
-.githubIcon{
-    font-size: 35px;
-      color: #F8F8F2;
+.githubIcon {
+  font-size: 35px;
+  color: #f8f8f2;
 }
-.linkedinIcon{
-     font-size: 35px;
-      color: #F8F8F2;color: white;
-
+.linkedinIcon {
+  font-size: 35px;
+  color: #f8f8f2;
+  color: white;
 }
 
 .heroImg {
-height: 300px;
-width: 300px;
+  height: 300px;
+  width: 300px;
   border-radius: 20%;
   object-fit: cover;
   z-index: 1;
-  animation-name: floating;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+ 
 }
 
-@keyframes floating {
-  0% {
-    transform: translate(0, 0px);
-  }
-  50% {
-    transform: translate(0, 10px);
-  }
-  100% {
-    transform: translate(0, -0px);
-  }
-}
+
 
 .topBlur {
   position: absolute;
