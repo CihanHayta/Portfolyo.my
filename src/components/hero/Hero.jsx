@@ -5,6 +5,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 
 // Import hero image
+import chn from "/assets/hero/cihan.jpeg";
 
 
 const Hero = () => {
@@ -46,7 +47,7 @@ const Hero = () => {
       <div className={styles.bottomBlur} />
 
       <img
-        src={"public/assets/hero/cihan.jpeg"}
+        src={chn}
         alt="Hero image of me"
         className={styles.heroImg}
       />
