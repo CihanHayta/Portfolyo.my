@@ -83,7 +83,7 @@
   border-radius: 20%;
   object-fit: cover;
   z-index: 1;
- 
+ padding-left: 10px;
 }
 
 

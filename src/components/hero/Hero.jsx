@@ -45,7 +45,11 @@ const Hero = () => {
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
 
-     
+      <img
+        src={"public/assets/hero/cihan.jpeg"}
+        alt="Hero image of me"
+        className={styles.heroImg}
+      />
 
     </section>
   );
