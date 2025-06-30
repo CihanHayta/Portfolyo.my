@@ -47,7 +47,7 @@ const Hero = () => {
 
       <div className={styles.heroImgContainer}>
       <img
-        src={"src/assets/hero/cihan.png"}
+        src={"src/assets/about/mob.webp"}
         alt="Hero image of me"
         className={styles.heroImg}
       />
